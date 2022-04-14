@@ -1,6 +1,6 @@
 Oiii eu sou Mikael Caetano👋
 
-Bem vindo ao meu perfil
+Aqui voçê vai encontrar meus projetos como também meus matériais de estudo
 
 <div align="center">
   <a href="https://github.com/mikaelcaetano">
